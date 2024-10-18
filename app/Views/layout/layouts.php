@@ -30,17 +30,17 @@
         <!-- LOGO -->
         <div class="flex py-4 my-4 mx-12">
             <a href="<?= base_url() ?>">
-                <img src="<?= base_url('public/assets/image/logo.png') ?>" alt="Logo" class="logo-c">
+                <img src="<?= base_url('public/assets/image/logo.jpg') ?>" alt="Logo" class="logo-c">
             </a>
         </div>
 
         <!-- NAVIGATION -->
-        <div class="hidden lg:block navbar-c flex-1 rounded-md py-4 my-4 ml-2 mr-12">
+        <div class="hidden lg:block navbar-c flex-1 rounded-md py-4 my-4 ml-2 mr-12" style="background-color: #F99A1C;">
             <div class="container mx-auto flex justify-around items-center">
                 <a href="<?= base_url() ?>" class="<?=$uri->getSegment(1) === '' ? ' font-bold text-white' : 'text-white ' ?>">Home</a>
-                <a href="<?= base_url() ?>term-and-condition" class="<?=$uri->getSegment(1) === 'term-and-condition' ? ' font-bold text-white' : 'text-white' ?>">Term & Condition</a>
-                <a href="<?= base_url() ?>about-us" class="<?=$uri->getSegment(1) === 'about-us' ? ' font-bold text-white' : 'text-white' ?>">About Us</a>
-                <a href="<?= base_url() ?>how-to-use" class="<?=$uri->getSegment(1) === 'how-to-use' ? ' font-bold text-white' : 'text-white' ?>">How To Use</a>
+                <a href="<?= base_url() ?>/term-and-condition" class="<?=$uri->getSegment(1) === 'term-and-condition' ? ' font-bold text-white' : 'text-white' ?>">Term & Condition</a>
+                <a href="<?= base_url() ?>/about-us" class="<?=$uri->getSegment(1) === 'about-us' ? ' font-bold text-white' : 'text-white' ?>">About Us</a>
+                <a href="<?= base_url() ?>/how-to-use" class="<?=$uri->getSegment(1) === 'how-to-use' ? ' font-bold text-white' : 'text-white' ?>">How To Use</a>
             </div>
         </div>
 
@@ -54,9 +54,9 @@
             <nav class="mobile-menu z-50">
                 <ul class="menu-items">
                     <li><a href="<?= base_url() ?>" class="text-sm">Home</a></li>
-                    <li><a href="<?= base_url() ?>term-and-condition" class="text-sm">Term & Condition</a></li>
-                    <li><a href="<?= base_url() ?>about-us" class="text-sm">About Us</a></li>
-                    <li><a href="<?= base_url() ?>how-to-use" class="text-sm">How To Use</a></li>
+                    <li><a href="<?= base_url() ?>/term-and-condition" class="text-sm">Term & Condition</a></li>
+                    <li><a href="<?= base_url() ?>/about-us" class="text-sm">About Us</a></li>
+                    <li><a href="<?= base_url() ?>/how-to-use" class="text-sm">How To Use</a></li>
                 </ul>
             </nav>
         </div>
