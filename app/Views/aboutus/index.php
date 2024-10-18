@@ -6,7 +6,7 @@
     <div class="my-4 mx-2">
         <div class="flex flex-col items-center text-center gap-y-36">
             <div class="flex flex-col items-center gap-y-12 ">
-                <img class="w-52" src="<?= base_url('public/assets/image/logo.jpg') ?>" alt="Logo" class="logo-c">
+                <img class="w-52" src="<?= base_url('public/assets/image/logo.png') ?>" alt="Logo" class="logo-c">
                 <p class="text-xl lg:px-14 px-4 text-[#767676]">CariKerjaYuk adalah satu wadah bagi para pencari kerja untuk mempermudah mendapat pekerjaan sesuai dengan apa yang di inginkan tentunya dari berbagai perusahaan ternama yang ada di indonesia. Kami berusaha memberikan yang terbaik untuk anda.</p>
             </div>
             <div class="flex flex-col gap-y-4 justify-center text-center">

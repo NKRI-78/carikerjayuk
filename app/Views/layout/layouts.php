@@ -6,10 +6,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tentang Loker</title>
+    <title>CariKerjaYuk</title>
     <link rel="icon" type="image/x-icon" href="<?= base_url('public/assets/image/logo.png') ?>" />
     <meta name="description" content="Penyedia lowongan kerja yang memudahkan pelamar mencari kerja tanpa ribet">
-    <meta name="keywords" content="Tentang Loker, tentang, loker, lowongan, kerja">
+    <meta name="keywords" content="Cari Kerja Yuk, cari, kerja, yuk, cari">
 
     <!-- Include Tailwind CSS -->
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -30,7 +30,7 @@
         <!-- LOGO -->
         <div class="flex py-4 my-4 mx-12">
             <a href="<?= base_url() ?>">
-                <img src="<?= base_url('public/assets/image/logo.jpg') ?>" alt="Logo" class="logo-c">
+                <img src="<?= base_url('public/assets/image/logo.png') ?>" alt="Logo" class="logo-c">
             </a>
         </div>
 
