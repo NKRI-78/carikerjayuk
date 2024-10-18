@@ -4,7 +4,7 @@
 
 <div class="flex justify-center items-center">
     <div class="rounded-md mx-10">
-        <img src="<?= base_url('public/assets/image/banner.png') ?>" class="object-fit" alt="banner" width="1300" />
+        <img src="<?= base_url('public/assets/image/banner.png') ?>??t=" . time()" class="object-fit" alt="banner" width="1300" />
     </div>
 </div>
 

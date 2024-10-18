@@ -27,7 +27,6 @@
                 </div>
                 <div class="my-4">
                     3. “CariKerjaYuk” tidak bertanggung jawab atas kesalahan data atau informasi yang termuat di situs ini karena “CariKerjaYuk” selalu berusaha memberikan informasi yang benar dan valid kepada para pencari kerja berdasarkan sumber-sumber resmi dan terpercaya.
-
                 </div>
                 <div class="my-4">
                     3. “CariKerjaYuk” tidak bertanggung jawab atas kesalahan data atau informasi yang termuat di situs ini karena “CariKerjaYuk” selalu berusaha memberikan informasi yang benar dan valid kepada para pencari kerja berdasarkan sumber-sumber resmi dan terpercaya.

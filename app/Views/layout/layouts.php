@@ -30,7 +30,7 @@
         <!-- LOGO -->
         <div class="flex py-4 my-4 mx-12">
             <a href="<?= base_url() ?>">
-                <img src="<?= base_url('public/assets/image/logo.png') ?>" alt="Logo" class="logo-c">
+                <img src="<?= base_url('public/assets/image/logo.png') ?>?t=" . time()" alt="Logo" class="logo-c">
             </a>
         </div>
 
