@@ -20,25 +20,26 @@
             <div class="px-4 py-2 bg-white" x-show="open">
                 <!-- Content Goes Here -->
                 <div class="my-4">
-                    1. Hanya dengan Rp.2.000,- “TentangLoker” akan membantu anda dalam kemudahan pencarian lowongan kerja sesuai dengan keinginan anda.
+                    1. Hanya dengan Rp.2.000,- “CariKerjaYuk” akan membantu anda dalam kemudahan pencarian lowongan kerja sesuai dengan keinginan anda.
                 </div>
                 <div class="my-4">
-                    2. “TentangLoker” tidak memiliki ikatan apapun dengan perusahan-perusahan yang info lowongannya terdaftar di situs ini.
+                    2. “CariKerjaYuk”  tidak memiliki ikatan apapun dengan perusahan-perusahan yang info lowongannya terdaftar di situs ini.
                 </div>
                 <div class="my-4">
-                    3. “TentangLoker” tidak bertanggung jawab atas kesalahan data atau informasi yang termuat di situs ini karena “TentangLoker” selalu berusaha memberikan informasi yang benar dan valid kepada para pencari kerja berdasarkan sumber-sumber resmi dan terpercaya.
+                    3. “CariKerjaYuk” tidak bertanggung jawab atas kesalahan data atau informasi yang termuat di situs ini karena “CariKerjaYuk” selalu berusaha memberikan informasi yang benar dan valid kepada para pencari kerja berdasarkan sumber-sumber resmi dan terpercaya.
+
                 </div>
                 <div class="my-4">
-                    3. “TentangLoker” tidak bertanggung jawab atas kesalahan data atau informasi yang termuat di situs ini karena “TentangLoker” selalu berusaha memberikan informasi yang benar dan valid kepada para pencari kerja berdasarkan sumber-sumber resmi dan terpercaya.
+                    3. “CariKerjaYuk” tidak bertanggung jawab atas kesalahan data atau informasi yang termuat di situs ini karena “CariKerjaYuk” selalu berusaha memberikan informasi yang benar dan valid kepada para pencari kerja berdasarkan sumber-sumber resmi dan terpercaya.
                 </div>
                 <div class="my-4">
-                    4. “TentangLoker” tidak bertanggung jawab terhadap data atau informasi yang disebarkan oleh pembaca, sekalipun data atau informasi tersebut mengacu kepada informasi yang termuat di situs kami.
+                    4. “CariKerjaYuk” tidak bertanggung jawab terhadap data atau informasi yang disebarkan oleh pembaca, sekalipun data atau informasi tersebut mengacu kepada informasi yang termuat di situs kami.
                 </div>
                 <div class="my-4">
-                    5. “TentangLoker” tidak pernah meminta imbalan dalam bentuk apapun kepada para pencari kerja yang berkunjung ke situs ini, kami bukan pihak perekrut, kami hanya menyampaikan informasi seputar lowongan kerja. Jika ada pihak tertentu yang meminta imbalan dalam bentuk apapun dan mengatas namakan “TentangLoker”, maka mohon untuk tidak dilayani.
+                    5. “CariKerjaYuk” tidak pernah meminta imbalan dalam bentuk apapun kepada para pencari kerja yang berkunjung ke situs ini, kami bukan pihak perekrut, kami hanya menyampaikan informasi seputar lowongan kerja. Jika ada pihak tertentu yang meminta imbalan dalam bentuk apapun dan mengatas namakan “TentangLoker”, maka mohon untuk tidak dilayani.
                 </div>
                 <div class="my-4">
-                    6. “TentangLoker” memiliki Tujuan memberikan Layanan Informasi kesempatan Kerja bagi seluruh Rakyat Indonesia
+                    6. “CariKerjaYuk” memiliki Tujuan memberikan Layanan Informasi kesempatan Kerja bagi seluruh Rakyat Indonesia
                 </div>
             </div>
         </div>
