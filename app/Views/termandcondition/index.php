@@ -36,7 +36,7 @@
                     4. “CariKerjaYuk” tidak bertanggung jawab terhadap data atau informasi yang disebarkan oleh pembaca, sekalipun data atau informasi tersebut mengacu kepada informasi yang termuat di situs kami.
                 </div>
                 <div class="my-4">
-                    5. “CariKerjaYuk” tidak pernah meminta imbalan dalam bentuk apapun kepada para pencari kerja yang berkunjung ke situs ini, kami bukan pihak perekrut, kami hanya menyampaikan informasi seputar lowongan kerja. Jika ada pihak tertentu yang meminta imbalan dalam bentuk apapun dan mengatas namakan “TentangLoker”, maka mohon untuk tidak dilayani.
+                    5. “CariKerjaYuk” tidak pernah meminta imbalan dalam bentuk apapun kepada para pencari kerja yang berkunjung ke situs ini, kami bukan pihak perekrut, kami hanya menyampaikan informasi seputar lowongan kerja. Jika ada pihak tertentu yang meminta imbalan dalam bentuk apapun dan mengatas namakan “CariKerjaYuk”, maka mohon untuk tidak dilayani.
                 </div>
                 <div class="my-4">
                     6. “CariKerjaYuk” memiliki Tujuan memberikan Layanan Informasi kesempatan Kerja bagi seluruh Rakyat Indonesia

@@ -20,7 +20,7 @@ class Home extends BaseController
         if($refferal == "reff17432200") {
             return redirect()->to('https://api.whatsapp.com/send?phone=+6285212131890&text=Loker-fre71f223400');
         } else {
-            return redirect()->to('https://tentangloker.com');
+            return redirect()->to('https://carikerjayuk.com');
         }
     }
 }
